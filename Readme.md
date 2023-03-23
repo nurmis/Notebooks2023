@@ -18,7 +18,7 @@ Make sure you have Notebook and CMD prompt installed there. If not click on Inst
 
 Setup project
 Clone the repo by running the following command:
-git clone https://github.com/M3SOulu/TrendMiningPython.git
+git clone https://github.com/nurmis/Notebooks2023.git
 
 Open the cloned project in Notebook and also in the CMD prompt that you launced in previous setup
 
